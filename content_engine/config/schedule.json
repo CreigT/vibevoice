@@ -1,0 +1,72 @@
+{
+  "timezone": "America/Los_Angeles",
+  "max_posts_per_day": 13,
+  "require_human_approval": true,
+  "slots": [
+    {
+      "id": 1,
+      "time": "06:00",
+      "category": "AI news"
+    },
+    {
+      "id": 2,
+      "time": "07:30",
+      "category": "Cybersecurity learning"
+    },
+    {
+      "id": 3,
+      "time": "09:00",
+      "category": "AI tool"
+    },
+    {
+      "id": 4,
+      "time": "10:30",
+      "category": "Business lesson"
+    },
+    {
+      "id": 5,
+      "time": "12:00",
+      "category": "AI Agent Spotlight"
+    },
+    {
+      "id": 6,
+      "time": "13:30",
+      "category": "Quick tutorial"
+    },
+    {
+      "id": 7,
+      "time": "15:00",
+      "category": "Build update"
+    },
+    {
+      "id": 8,
+      "time": "16:30",
+      "category": "Cybersecurity tip"
+    },
+    {
+      "id": 9,
+      "time": "18:00",
+      "category": "AI opportunity"
+    },
+    {
+      "id": 10,
+      "time": "19:30",
+      "category": "Entrepreneurship"
+    },
+    {
+      "id": 11,
+      "time": "21:00",
+      "category": "Technology commentary"
+    },
+    {
+      "id": 12,
+      "time": "22:30",
+      "category": "Motivation and experience"
+    },
+    {
+      "id": 13,
+      "time": "23:30",
+      "category": "Daily recap / tomorrow"
+    }
+  ]
+}
